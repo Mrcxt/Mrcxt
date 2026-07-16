@@ -34,39 +34,6 @@ const cixiangtao = {
   </a>
 </div>
 
-## 🚀 Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/cixiangtao/nice-use-modal">🪄 nice-use-modal</a></h3>
-      <p>A type-safe React modal orchestration hook with a clean show/hide/destroy lifecycle and no UI-library lock-in.</p>
-      <a href="https://www.npmjs.com/package/nice-use-modal"><img src="https://img.shields.io/npm/v/nice-use-modal?style=flat-square&logo=npm&color=cb3837" alt="npm version" /></a>
-      <img src="https://img.shields.io/badge/React-TypeScript-38bdf8?style=flat-square&logo=react" alt="React and TypeScript" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/cixiangtao/url-join">🔗 @anys/url-join</a></h3>
-      <p>Protocol-safe URL composition with nullable segments, query merging, encoding, and zero dependencies.</p>
-      <a href="https://www.npmjs.com/package/@anys/url-join"><img src="https://img.shields.io/npm/v/%40anys%2Furl-join?style=flat-square&logo=npm&color=cb3837" alt="npm version" /></a>
-      <img src="https://img.shields.io/badge/Zero-dependencies-a78bfa?style=flat-square" alt="Zero dependencies" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/oxc-project/oxc">⚡ Oxc</a></h3>
-      <p>Contributing to the Rust-powered JavaScript toolchain, improving configuration APIs and developer experience.</p>
-      <a href="https://github.com/oxc-project/oxc"><img src="https://img.shields.io/badge/Open%20Source-Contributor-a78bfa?style=flat-square&logo=github" alt="Open source contributor" /></a>
-      <img src="https://img.shields.io/badge/Rust-%2B%20TypeScript-f97316?style=flat-square&logo=rust" alt="Rust and TypeScript" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/cixiangtao/is-empty-react-node">🫥 @anys/is-empty-react-node</a></h3>
-      <p>Precisely detects empty ReactNode values—including arrays and fragments—through one focused API.</p>
-      <a href="https://www.npmjs.com/package/@anys/is-empty-react-node"><img src="https://img.shields.io/npm/v/%40anys%2Fis-empty-react-node?style=flat-square&logo=npm&color=cb3837" alt="npm version" /></a>
-      <img src="https://img.shields.io/badge/React-16.8%2B-06b6d4?style=flat-square&logo=react" alt="React 16.8 and later" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
 
 ### “Stay curious. Ship thoughtfully.”
